@@ -7,17 +7,11 @@ class Solution {
         while(r<n){
             char c=s.charAt(r);
             if(map.containsKey(c)){
-                if(map.get(c)<l){
-                    map.put(c,r);
-                }
-                else{
+                if(map.get(c)>=l){
                     l=map.get(c)+1;
-                    map.put(c,r);
                 }
             }
-            else{
-                map.put(c,r);
-            }
+            map.put(c,r);
             ml=Math.max(ml,r-l+1);
             r++;
         }
