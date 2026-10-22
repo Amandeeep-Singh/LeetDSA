@@ -6,16 +6,15 @@ class Solution {
             if(nums[r]==0){
                 z++;
             }
-            while(z>k){
+            if(z>k){
                 if(nums[l]==0){
                     z--;
                 }
-                max=Math.max(max,r-l);
                 l++;
             }
+            max=Math.max(max,r-l+1);
             r++;
         }
-        max=Math.max(max,r-l);
         return max;
     }
 }
