@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1550-three-consecutive-odds](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1550-three-consecutive-odds) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
