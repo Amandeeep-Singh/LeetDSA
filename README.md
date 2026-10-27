@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0436-find-right-interval](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0436-find-right-interval) |
 | [0904-fruit-into-baskets](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 ## String
