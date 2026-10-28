@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3206-alternating-groups-i](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/3206-alternating-groups-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
+| [3206-alternating-groups-i](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/3206-alternating-groups-i) |
 ## Prefix Sum
 |  |
 | ------- |
