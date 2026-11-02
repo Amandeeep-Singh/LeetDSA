@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0539-minimum-time-difference) |
 | [0713-subarray-product-less-than-k](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0713-subarray-product-less-than-k) |
+| [0881-boats-to-save-people](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0436-find-right-interval) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0539-minimum-time-difference) |
+| [0881-boats-to-save-people](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0881-boats-to-save-people) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3913-sort-vowels-by-frequency](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/3913-sort-vowels-by-frequency) |
 ## Backtracking
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0148-sort-list) |
+| [0881-boats-to-save-people](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0881-boats-to-save-people) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -140,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [3913-sort-vowels-by-frequency](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/3913-sort-vowels-by-frequency) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
