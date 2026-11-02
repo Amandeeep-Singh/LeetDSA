@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0436-find-right-interval](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0436-find-right-interval) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0539-minimum-time-difference) |
 | [0904-fruit-into-baskets](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0148-sort-list) |
 | [0436-find-right-interval](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0436-find-right-interval) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0539-minimum-time-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3913-sort-vowels-by-frequency](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/3913-sort-vowels-by-frequency) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0539-minimum-time-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Counting
