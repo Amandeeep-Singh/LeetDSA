@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3206-alternating-groups-i](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/3206-alternating-groups-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0539-minimum-time-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Counting
 |  |
 | ------- |
