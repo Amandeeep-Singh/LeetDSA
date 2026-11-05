@@ -55,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0881-boats-to-save-people](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0881-boats-to-save-people) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Divide and Conquer
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0076-minimum-window-substring) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0424-longest-repeating-character-replacement](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0904-fruit-into-baskets) |
