@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0436-find-right-interval) |
 | [0713-subarray-product-less-than-k](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0539-minimum-time-difference) |
 | [0881-boats-to-save-people](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0881-boats-to-save-people) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3913-sort-vowels-by-frequency](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/3913-sort-vowels-by-frequency) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0539-minimum-time-difference](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0539-minimum-time-difference) |
+| [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/2243-calculate-digit-sum-of-a-string) |
