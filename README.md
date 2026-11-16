@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/2841-maximum-sum-of-almost-unique-subarray) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3206-alternating-groups-i](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/3206-alternating-groups-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
