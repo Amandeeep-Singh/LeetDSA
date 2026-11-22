@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3913-sort-vowels-by-frequency](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/3913-sort-vowels-by-frequency) |
