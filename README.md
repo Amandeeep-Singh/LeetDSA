@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1550-three-consecutive-odds](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1550-three-consecutive-odds) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0539-minimum-time-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1352-product-of-the-last-k-numbers) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Counting
 |  |
@@ -190,4 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/0199-binary-tree-right-side-view) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Amandeeep-Singh/LeetDSA/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
